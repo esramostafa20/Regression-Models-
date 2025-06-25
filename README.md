@@ -10,8 +10,8 @@ This repository provides a clear, practical explanation of all major regression 
 
   # 📚 Covered Models
 
-- Simple Linear Regression
-- Multiple Linear Regression
+- Simple Linear Regression || Used Dataset || California housing
+- Multiple Linear Regression || Used Dataset || Students Performance in Exams
 - Polynomial Regression
 - Ridge Regression
 - Lasso Regression
